@@ -50,7 +50,7 @@ caesar-cipher/
 ## ▶️ How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/caesar-cipher.git
+git clone https://github.com/obrempong01-lab/caesar_cipher
 
 ### 2. Navigate into the project
 cd caesar-cipher
