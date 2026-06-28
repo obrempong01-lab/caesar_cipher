@@ -31,3 +31,32 @@ A modular Python command-line application that allows users to encode and decode
 ---
 
 ## 📁 Project Structure
+caesar-cipher/
+│
+├── main.py
+├── cipher.py
+├── ui.py
+├── validator.py
+├── history.py
+├── history.txt
+├── README.md
+│
+└── screenshots/
+    ├── menu.png
+    ├── encode.png
+    ├── decode.png
+    └── history.png
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+git clone https://github.com/your-username/caesar-cipher.git
+
+### 2. Navigate into the project
+cd caesar-cipher
+
+### 3. Run the program
+python main.py
+
+## Author
+Built by Quanor Theophilus ---Aspiring Penetration Tester | Network Enthusiast
