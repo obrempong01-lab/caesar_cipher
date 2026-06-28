@@ -1,0 +1,4 @@
+2026-06-27 17:50:57 | ENCODE | shift=3 | hello -> khoor
+2026-06-27 17:51:07 | DECODE | shift=3 | khoor -> hello
+2026-06-27 18:23:18 | ENCODE | shift=3 | hello -> khoor
+2026-06-27 18:24:04 | DECODE | shift=3 | khoor -> hello
